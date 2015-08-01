@@ -19,4 +19,4 @@ To compile and run the app, follow the steps.
 
 8) Currently i am searching for a area with radius 100 km from current location. to change the value go to src->com->example->ysdemo->TweetImageFragment.java->line no. 31 and set "final int radius =100" to number as your wish.
 
-9) Library used for the application twitter4j :)
+9) Library used for the application twitter4j(includes all Rest API calls) :)
